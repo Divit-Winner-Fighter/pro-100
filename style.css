@@ -41,3 +41,7 @@ body
 {
 background-image: linear-gradient( #010029, #0d0357, #002efd, #01fdf9f8, #00e5ff);
 }
+
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+                <div id="footer"> Developed: Dhruv       Github:Divit-Winner-Fighter</div>
+            </div>
